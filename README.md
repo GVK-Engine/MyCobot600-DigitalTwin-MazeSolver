@@ -1,5 +1,5 @@
 # MyCobot600-DigitalTwin-MazeSolver
-Digital Twin + AI Vision-Based Maze Solver using MyCobot Pro 600 | MATLAB + Python | RAS545 Project (ASU)
+Digital Twin + AI Vision-Based Maze Solver using MyCobot Pro 600 | MATLAB + Python | 
 # 🤖 Smart & Accurate Path Planning with MyCobot Pro 600
 
 **Contributors:** Vamshikrishna Gadde 
@@ -45,7 +45,7 @@ We connected **Elephant Robotics' MyCobot Pro 600** to its **MATLAB Simscape dig
 - Verified predicted vs. actual end-effector paths (<5% deviation).
 - Demonstrated strong digital-twin validation loop before deployment.
 
-![Digital Twin Result](images/digital_twin.png)
+![Digital Twin Result](https://drive.google.com/file/d/13qweHgKjmCc7hHcJxI5vvIyDoZjNNVRQ/view?usp=drive_link)
 
 ---
 
