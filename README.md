@@ -2,7 +2,7 @@
 Digital Twin + AI Vision-Based Maze Solver using MyCobot Pro 600 | MATLAB + Python | 
 # 🤖 Smart & Accurate Path Planning with MyCobot Pro 600
 
-**Contributors:** Vamshikrishna Gadde 
+**Contributor:** Vamshikrishna Gadde 
 
 
 ---
