@@ -50,7 +50,7 @@ We connected **Elephant Robotics' MyCobot Pro 600** to its **MATLAB Simscape dig
 ---
 
 ## 🎥 Project Demo
-[▶️ Watch Project Video](https://drive.google.com/drive/folders/1z-Yw3Gj1HG1zU_HUEZpT56SMKt-uV438)
+[▶️ Watch Project Video](https://drive.google.com/drive/folders/1pzRG9dZ7iL80BF3FCh8-2rIh7DU6K-nc?usp=sharing)
 
 ---
 
@@ -61,7 +61,7 @@ We connected **Elephant Robotics' MyCobot Pro 600** to its **MATLAB Simscape dig
 
 ---
 
-## ⚙️ Keywords (Lucid-Optimized)
+## ⚙️ Keywords
 **Digital Twin • Motion Planning • Inverse Kinematics • Python-MATLAB Integration • Autonomous Systems • Real-Time Control • Path Optimization • Robotics System Design • Manufacturing Automation • Simulation Validation**
 
 ---
